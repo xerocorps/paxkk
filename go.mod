@@ -1,4 +1,4 @@
-module main.go
+module module github.com/xerocorps/paxkk
 
 go 1.20
 
