@@ -22,7 +22,7 @@ jobs:
         go-version: '1.20'
 
     - name: Build
-      run: go install -v github.com/sensepost/gowitness@latest 
+      run: go install -v github.com/xerocorps/paxkk/@latest 
 
     - name: Test
       run: go test -v ./...
